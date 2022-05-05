@@ -1,24 +1,3 @@
-# vue2-axios
+# From Nuxt to Vue2 + axios
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Related to this issue: https://stackoverflow.com/q/72129392/8816585
